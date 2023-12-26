@@ -35,6 +35,9 @@ En resumen, Spring Framework es un framework completo y flexible que simplifica 
 | Uso de anotaciones | Utiliza anotaciones para configurar y definir componentes, controladores, rutas, entre otros. | También utiliza anotaciones, pero requiere más configuración manual en comparación con Spring Boot. |
 | Facilidad de uso | Proporciona una forma rápida y sencilla de crear aplicaciones Java con configuración mínima. | Requiere más configuración y conocimiento técnico para su implementación. |
 
+
+[⬆ Volver](https://github.com/AlexNarvaez00/Spring-Boot-Blog?tab=readme-ov-file#curso-b%C3%A1sico-de-spring-boot-con-buenas-pr%C3%A1cticas)
+
 # Requerimientos 📃.
 
 Un proyecto de Spring Boot, necesitan algunas cosas. En este caso, utilizaremos Maven como gestor de dependencias, aunque existen otros gestores de dependencias como Gradle.
@@ -65,8 +68,6 @@ La descarga de Java en su versión 20 la puedes realizar desde la siguiente [pá
     
 
 ## Instalación de Maven ⬇️.
-
-[Copia](https://www.notion.so/Copia-19b34bb72b034829951eff4677cdce6d?pvs=21)
 
 Puedes descargar esta herramienta desde la página oficial. Te recomiendo que descargues la última versión disponible, ya que también estamos trabajando con la última versión de Java.
 
@@ -106,6 +107,8 @@ export M2_HOME=/opt/maven
 export PATH=${M2_HOME}/bin:${PATH}
 ```
 
+[⬆ Volver](https://github.com/AlexNarvaez00/Spring-Boot-Blog?tab=readme-ov-file#curso-b%C3%A1sico-de-spring-boot-con-buenas-pr%C3%A1cticas)
+
 # Creación de un Proyecto 🏭.
 
 Crear un proyecto de Spring Boot, es tan sencillo como ingresar a su [sitio oficial](https://start.spring.io/), recuerda que debes de seleccionar Maven y la versión de Java correspondiente.
@@ -128,10 +131,10 @@ Crear un proyecto de Spring Boot, es tan sencillo como ingresar a su [sitio ofic
     - **Validación**: Esta dependencia permite realizar validaciones de datos de manera sencilla y consistente en las aplicaciones.
     - **Spring Data JPA**: Spring Data JPA simplifica el acceso y la manipulación de los datos en la base de datos utilizando el patrón de acceso a datos Object-Relational Mapping (ORM).
     
-    Estas dependencias son esenciales para iniciar un proyecto de Spring Boot y aprovechar al máximo las características y funcionalidades que ofrece el framework.
-    
+    Estas dependencias son esenciales para iniciar un proyecto de Spring Boot y aprovechar al máximo las características y funcionalidades que ofrece el framework.    
      
-    
+[⬆ Volver](https://github.com/AlexNarvaez00/Spring-Boot-Blog?tab=readme-ov-file#curso-b%C3%A1sico-de-spring-boot-con-buenas-pr%C3%A1cticas)
+
 
 # Editores ⌨️.
 
@@ -146,6 +149,8 @@ Aquí te presento una lista de algunos editores que son recomendados por su func
 - **Visual Studio Code:** Un editor de código ligero y altamente personalizable. Es compatible con una amplia gama de lenguajes de programación y tiene una gran cantidad de extensiones disponibles para facilitar el desarrollo en Java.
 
 Así que no dudes en probar estos editores y elegir el que mejor se adapte a tus necesidades y preferencias.
+
+[⬆ Volver](https://github.com/AlexNarvaez00/Spring-Boot-Blog?tab=readme-ov-file#curso-b%C3%A1sico-de-spring-boot-con-buenas-pr%C3%A1cticas)
 
 # Ejecución de nuestro proyecto Spring Boot 🚀.
 
@@ -211,6 +216,8 @@ Otro de los errores mas comunes es que nuestra aplicación de Spring Boot no ini
 </project>
 ```
 
+[⬆ Volver](https://github.com/AlexNarvaez00/Spring-Boot-Blog?tab=readme-ov-file#curso-b%C3%A1sico-de-spring-boot-con-buenas-pr%C3%A1cticas)
+
 # Anotaciones ✍🏻.
 
 ## ¿Que son las anotaciones?
@@ -275,6 +282,8 @@ En resumen,  las anotaciones en Java, especialmente en Spring Boot, te permiten 
 ¡Es como darle a tu código un conjunto de instrucciones para que Spring Boot lo maneje de la mejor manera posible!
 
 ¡No te preocupes si no entendiste los ejemplos mostrados, son solo eso EJEMPLOS! Más adelante se explicara su funcionamiento a detalle, lo que es importante es que  entiendas el posicionamiento de las anotaciones.
+
+[⬆ Volver](https://github.com/AlexNarvaez00/Spring-Boot-Blog?tab=readme-ov-file#curso-b%C3%A1sico-de-spring-boot-con-buenas-pr%C3%A1cticas)
 
 # Lombok 🌶️.
 
@@ -384,7 +393,8 @@ Lombok contiene muchas anotaciones que son muy útiles, entre ellas nos encontra
 - @NoArgConstructor
     
     Provee de un constructor vacío.
-    
+
+[⬆ Volver](https://github.com/AlexNarvaez00/Spring-Boot-Blog?tab=readme-ov-file#curso-b%C3%A1sico-de-spring-boot-con-buenas-pr%C3%A1cticas)
 
 # Controladores REST🎮.
 
