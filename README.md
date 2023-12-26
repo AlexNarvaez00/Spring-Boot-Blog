@@ -1,6 +1,28 @@
 # Curso básico de Spring Boot, con buenas prácticas.
 
-[[_TOC_]]
+* ¿Que es Spring Boot, y que es Spring Framework?
+    * Spring Boot 🍃.
+    * Spring Framework 🖼️.
+    * Comparación ☕.
+* Requerimientos 📃.
+    * Instalación de Java (20) 🍵.
+    * Instalación de Maven ⬇️.
+* Creación de un Proyecto 🏭.
+    * Dependencias necesarias para Spring Boot 🐀.
+* Editores ⌨️.
+* Ejecución de nuestro proyecto Spring Boot 🚀.
+    * Edición del archivo de configuración ⚙️.
+    * Desde la terminal 🖥️.
+* Anotaciones ✍🏻.
+    * ¿Que son las anotaciones?
+    * ¿Donde se utilizan?
+* Lombok 🌶️.
+    * Utilidades y ventajas ♟️.
+    * Anotaciones básicas 📝.
+* Controladores REST🎮.
+    * Definir una ruta 🏁.
+    * Verbos.
+    * Solicitudes 👥.
 
 
 # ¿Que es Spring Boot, y que es Spring Framework?
