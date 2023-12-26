@@ -1,5 +1,8 @@
 # Curso básico de Spring Boot, con buenas prácticas.
 
+[[_TOC_]]
+
+
 # ¿Que es Spring Boot, y que es Spring Framework?
 
 ## Spring Boot 🍃.
